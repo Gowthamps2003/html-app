@@ -1,0 +1,7 @@
+Step 1: i created a repo added the html file and .yml file
+step 2: i created a s3 bucket and attached the required polices 
+(s3 bucket is created because the deployment is gonna be done on s3 bucket)
+step 3: directly created codepipeline because the code deploy and code commit is not working for new aws users
+step 4: for deployment in s3 bucket is choosen 
+step 5: the pipeline is saved and excuted sucessfully
+
